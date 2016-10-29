@@ -1,0 +1,11 @@
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/json/JsonUtils.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/json/JsonWriter.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/model/HttpCode.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/model/OperationResult.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/model/ResourceMessage.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/json/OperationResultJsonWriter.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/category/resource/CategoryResource.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/model/StandardsOperationResults.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/category/resource/CategoryJsonConverter.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/exception/InvalidJsonException.java
+/home/kpant/Music/Java EE app development/Chapter 1/Part 1/library-app/library-resource/src/main/java/com/library/app/common/json/JsonReader.java
